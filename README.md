@@ -9,8 +9,8 @@ the aim of this project is to provide analysis with key insights on the revenue 
 
 ### Objectives
 The following steps were taken to execute the project
-1 Project planning using canva
-2 Brainstoming ideas using Miro
-3 Data processing using data bricks
+- Project planning using canva
+- Brainstoming ideas using Miro
+- Data processing using data bricks
 
 ### Summary of result
