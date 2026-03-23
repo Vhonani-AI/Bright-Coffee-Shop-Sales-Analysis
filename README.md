@@ -19,11 +19,11 @@ The following steps were taken to execute the project:
 - Data visualisation using Excel
 - Presentation of insights using PowerPoint
 
-1. **MIRO – Project Planning and Mind Map**
+### 1. MIRO – Project Planning and Mind Map
 
 A structured mind map was created in Miro to guide the analytical approach and ensure a clear understanding of the dataset.
 
-### Key Areas Covered:
+**Key Areas Covered:**
 - Data understanding (columns, structure, relationships)
 - Data cleaning strategy (null values, duplicates, formatting)
 - Exploratory Data Analysis (EDA)
@@ -31,16 +31,16 @@ A structured mind map was created in Miro to guide the analytical approach and e
 - Advanced analysis (cross-dimensional insights)
 - Insights and recommendations
 
-### Purpose:
+**Purpose:**
 - Break down the problem into manageable steps
 - Ensure a logical flow from raw data to insights
 - Plan analysis before writing SQL queries
 
-2. **Canva – Project Timeline (Gantt Chart)**
+### 2. Canva – Project Timeline (Gantt Chart)
 
 A project timeline was designed using Canva to track progress from 16 March to 31 March.
 
-### Phases Included:
+**Phases Included:**
 Week 1: Foundation
 - Understanding the case study
 - Data inspection and exploration
@@ -52,31 +52,31 @@ Week 2: Analysis and Output
 - Business insights generation
 - Final deliverables (presentation and GitHub)
 
-### Purpose:
+**Purpose:**
 - Maintain a structured workflow
 - Track milestones and deadlines
 - Ensure timely completion of deliverables
 
-3. **Excel – Data Visualisation**
+### 3. Excel – Data Visualisation
 
 Excel was used to create clear and effective visualisations based on SQL outputs.
 
-### Visuals Created:
+**Visuals Created:**
 - Revenue trends by month
 - Sales distribution by time of day
 - Store performance comparison
 - Product performance (top and bottom sellers)
 
-### Purpose:
+**Purpose:**
 - Transform raw data into visual insights
 - Identify trends and patterns efficiently
 - Support storytelling in the presentation
 
-4. **PowerPoint – Final Presentation**
+### 4. PowerPoint – Final Presentation
 
 A PowerPoint presentation was developed to communicate findings in a clear, business-focused format.
 
-### Structure:
+**Structure:**
 Introduction
 Business overview
 Data understanding
@@ -85,29 +85,29 @@ Visualisations
 Insights
 Recommendations
 
-### Key Insights Presented:
+**Key Insights Presented:**
 - Peak sales periods (time and day trends)
 - Best-performing products and categories
 - Store performance differences
 - Customer purchasing behaviour
 
-### Purpose:
+**Purpose:**
 - Present findings in a professional format
 - Translate data into actionable business insights
 - Demonstrate analytical and storytelling skills
 
-**Summary of Results**
+### Summary of Results
 
 The analysis identified key patterns in sales performance across time, products, and store locations. Variations in customer purchasing behaviour, product demand, and time-based sales trends contributed to fluctuations in revenue. The findings provide a foundation for strategic decisions aimed at improving sales performance, optimising product offerings, and enhancing operational efficiency.
 
-**Tools and Technologies**
+### Tools and Technologies
 Databricks (SQL) – Data analysis
 Miro – Project planning and mind mapping
 Canva – Timeline and Gantt chart creation
 Excel – Data visualisation
 PowerPoint – Final presentation
 
-**Key Skills Demonstrated**
+### Key Skills Demonstrated
 - Data cleaning and preparation
 - Exploratory data analysis (EDA)
 - SQL querying (aggregations, CASE statements, grouping)
@@ -115,6 +115,6 @@ PowerPoint – Final presentation
 - Business insight generation
 - Project planning and workflow structuring
 
-**Conclusion**
+### Conclusion
 
 This project demonstrates the ability to transform raw transactional data into meaningful insights that support business decision-making. It highlights both technical and analytical capabilities, including structured problem-solving, data interpretation, and clear communication of findings.
