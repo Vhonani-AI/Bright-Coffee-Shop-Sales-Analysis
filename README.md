@@ -1,5 +1,5 @@
 # Bright-Coffee-Shop-Sales-Analysis
-###Project Overview
+### Project Overview
 
 This project focuses on analysing transactional sales data for a coffee shop to understand its performance over the past six months.
 The objective of the analysis is to support the CEO by identifying trends, diagnosing potential causes of declining revenue, and providing actionable business insights.
