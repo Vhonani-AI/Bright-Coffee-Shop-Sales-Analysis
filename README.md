@@ -1,23 +1,24 @@
 # Bright-Coffee-Shop-Sales-Analysis
 ### Project Overview
+This project focuses on analysing transactional sales data for a coffee shop over a six-month period.
 
-This project focuses on analysing transactional sales data for a coffee shop to understand its performance over the past six months.
-The objective of the analysis is to support the CEO by identifying trends, diagnosing potential causes of declining revenue, and providing actionable business insights.
-The analysis was conducted using SQL in Databricks, supported by planning, visualisation, and presentation tools.
+The goal of this analysis is to understand how the business is performing by looking at sales trends, customer behaviour, and product performance. The insights from this project are intended to support decision-making and highlight areas where the business can improve.
+
+The analysis was done using SQL in Databricks, along with other tools for planning, visualisation, and presentation.
 
 ### Problem statement
-The coffee shop has experienced underperformance over the last six months. This project aims to investigate the factors contributing to the decline in revenue through detailed data analysis.
+The coffee shop wants to better understand its sales performance and identify patterns in customer behaviour and product demand. There is a need to explore the data in more detail to uncover what is driving revenue and where improvements can be made.
 
 ### Aim
-The aim of this project is to provide a comprehensive analysis of sales data and deliver key insights that explain the decline in revenue.
+The aim of this project is to analyse the sales data, identify key trends and patterns, and provide simple, clear recommendations that can help improve business performance.
 
 ### Objectives
-The following steps were taken to execute the project:
+The following steps were taken to complete the project:
 - Project planning using Canva
-- Brainstorming and structuring analysis using Miro
-- Data ingestion, cleaning, and analysis using Databricks (SQL)
+- Brainstorming and structuring ideas using Miro
+- Data cleaning and analysis using Databricks (SQL)
 - Data visualisation using Excel
-- Presentation of insights using PowerPoint
+- Presentation of findings using PowerPoint
 
 ### 1. MIRO – Project Planning and Mind Map
 
@@ -25,16 +26,16 @@ A structured mind map was created in Miro to guide the analytical approach and e
 
 **Key Areas Covered:**
 - Data understanding (columns, structure, relationships)
-- Data cleaning strategy (null values, duplicates, formatting)
+- Data cleaning strategy
 - Exploratory Data Analysis (EDA)
 - Business analysis (products, stores, time trends)
 - Advanced analysis (cross-dimensional insights)
 - Insights and recommendations
 
 **Purpose:**
-- Break down the problem into manageable steps
-- Ensure a logical flow from raw data to insights
-- Plan analysis before writing SQL queries
+- To break down the problem into manageable steps
+- To create a clear plan before starting the analysis
+- To ensure the analysis flows logically
 
 ### 2. Canva – Project Timeline (Gantt Chart)
 
@@ -53,9 +54,9 @@ Week 2: Analysis and Output
 - Final deliverables (presentation and GitHub)
 
 **Purpose:**
-- Maintain a structured workflow
-- Track milestones and deadlines
-- Ensure timely completion of deliverables
+- To stay organised and on track
+- To manage time effectively
+- To complete the project within the deadline
 
 ### 3. Excel – Data Visualisation
 
@@ -86,19 +87,32 @@ Insights
 Recommendations
 
 **Key Insights Presented:**
-- Peak sales periods (time and day trends)
-- Best-performing products and categories
-- Store performance differences
-- Customer purchasing behaviour
 
 **Purpose:**
 - Present findings in a professional format
 - Translate data into actionable business insights
 - Demonstrate analytical and storytelling skills
 
+**Key Insights Presented:**
+- Revenue increases steadily from January to June, with the highest performance in June
+- Morning sales contribute the largest portion of total revenue
+- Weekday sales are significantly higher than weekend sales
+- Coffee and tea are the top-performing product categories
+- Most customers purchase lower-priced items, showing price sensitivity
+- Sales patterns are generally consistent across store locations
+
+**Recommendations**
+- Increase staffing during busy morning hours
+- Focus on promoting top-selling products like coffee and tea
+- Introduce bundle deals to increase the average spend per customer
+- Create promotions to improve evening and weekend sales
+- Review low-performing products and consider improving or removing them
+- Plan for growth by preparing for higher demand in future months
+
 ### Summary of Results
 
-The analysis identified key patterns in sales performance across time, products, and store locations. Variations in customer purchasing behaviour, product demand, and time-based sales trends contributed to fluctuations in revenue. The findings provide a foundation for strategic decisions aimed at improving sales performance, optimising product offerings, and enhancing operational efficiency.
+The analysis shows that the business is growing over time, with clear patterns in customer behaviour and product performance. Sales are strongest in the morning and during weekdays, and a few key products (especially coffee and tea) drive most of the revenue.
+Customers tend to prefer more affordable items, which suggests that pricing plays an important role in purchasing decisions.
 
 ### Tools and Technologies
 Databricks (SQL) – Data analysis
@@ -111,10 +125,11 @@ PowerPoint – Final presentation
 - Data cleaning and preparation
 - Exploratory data analysis (EDA)
 - SQL querying (aggregations, CASE statements, grouping)
-- Data storytelling
-- Business insight generation
+- Data visualisation
+- Business insights
 - Project planning and workflow structuring
 
 ### Conclusion
+This project shows how raw data can be transformed into useful insights. It demonstrates my ability to clean data, analyse trends, and present findings in a clear and structured way.
 
-This project demonstrates the ability to transform raw transactional data into meaningful insights that support business decision-making. It highlights both technical and analytical capabilities, including structured problem-solving, data interpretation, and clear communication of findings.
+It also highlights my growing skills in SQL, data analysis, and problem-solving, and my ability to connect data insights to real business decisions.
